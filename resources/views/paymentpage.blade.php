@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+m<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
     <script>
         $(document).ready(function() {
             var options = {
-                "key": "rzp_test_GcZZFDPP0jHtC4", 
+                "key": "examplekey", 
                 "amount": "1000", 
                 "currency": "INR",
                 "name": "Papaya Coders",
