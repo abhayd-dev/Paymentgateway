@@ -17,7 +17,7 @@
             <input type="hidden" custom="Hidden Element" name="hidden">
             <script>
                 var options = {
-                    "key": "rzp_test_GcZZFDPP0jHtC4",
+                    "key": "examplekey",
                     "amount": "{{ Session::get('amount') }}",
                     "currency": "INR",
                     "order_id": "{{ Session::get('order_id') }}",
