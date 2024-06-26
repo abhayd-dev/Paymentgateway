@@ -13,7 +13,7 @@ class MainController extends Controller
 
     public function __construct()
     {
-        $this->api = new Api('rzp_test_GcZZFDPP0jHtC4','6JdtQv2u7oUw7EWziYeyoewJ');
+        $this->api = new Api('key','secret');
     }
 
     public function index(){
