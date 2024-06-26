@@ -1,0 +1,13 @@
+.bg{
+    background-image: linear-gradient(to bottom,rgb(98, 25, 215),rgb(216, 107, 125));
+    height: 100vh;
+}
+.bgm{
+    background-image: linear-gradient(to bottom,rgb(64, 172, 244),rgb(215, 72, 96));
+    height: 100vh;
+}
+.btni{
+    background-color: #13abc4; 
+  margin : 300px 200px auto;
+  font-family: "Trebuchet MS"
+}
